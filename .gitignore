@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Shaders/x64/
+Shaders/x86/
+*.exe
+*.dll
+*.ilk
+*.obj
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+
+# Generated archives and screenshots
+*.zip
+*.png~
+
+# OS files
+.DS_Store
+Thumbs.db
+
